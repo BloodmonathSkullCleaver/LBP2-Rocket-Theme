@@ -1,0 +1,10 @@
+{
+  "name": "My Rocket Theme",
+  "description": "This audio is from the game Little Big Planet 2 and it plays inside the pod.",
+  "author": "BloodmonathSkullCleaver",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
